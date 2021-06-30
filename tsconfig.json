@@ -1,0 +1,19 @@
+
+{
+   "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  }
+}
+ 
+
+
